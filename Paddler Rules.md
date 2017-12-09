@@ -1,47 +1,48 @@
 # Rules
-
 The Race Director's decision is final.
 
-## Copyright
+# Copyright
 
-## Introduction
-   Inclusive
+# Introduction
+Inclusive
 
-## 1. Definitions
- ## 1.1 People, Roles and Responsibilities
-  * Racer
-  * Race Organiser
-  * Race Director
-  * Race Committee
-  * Social Committee
-  * Time Keeper
-  * Starter
-  * Volunteer
+# 1. Definitions
+### 1.1 People, Roles and Responsibilities
+* Racer
+* Race Organiser
+* Race Director
+* Race Committee
+* Social Committee
+* Time Keeper
+* Starter
+* Volunteer
 
- ## 1.2 Board Classes
- The following definitions will be used to group boards into classes at all events, the definition of a board class doesn't imply it's representation or acceptance at a parituclar or indeed any race, nor does it prohibit classes being merged.
+### 1.2 Board Classes
+The following definitions will be used to group boards into classes at all events, the definition of a board class doesn't imply it's representation or acceptance at a parituclar or indeed any race, nor does it prohibit classes being merged.
 
- * "Surf Shape" or "SS" shall be any board 12 feet and 5 inches in length or less with a planning hull. Displament, semi-displacement or concave hulls or not permitted in this class.
- * "One Design" classes are recognised as a fleet of boards produced to common criteria as defined by a board manufacturer.
- * "Twelve foot six" or "12'6" class is defined as any board equal to 12 feet and 6 inches in length or less when combined with a non-planning hull.
- * "Fourteen foot" or "‘14’0" class is defined as any board greater than 12 feet and 7 inches upto 14 feet in length.
- * "Unlimited" or "UL" class is any board longer than 14 feet and 1 inch.
- * "Mega Board" or "MB" class is any board designed to be paddled by more than 4 paddlers and whose width can accomodate two paddlers stood side-by-side.
+* "Surf Shape" or "SS" shall be any board 12 feet and 5 inches in length or less with a planning hull. Displament, semi-displacement or concave hulls or not permitted in this class.
+* "One Design" classes are recognised as a fleet of boards produced to common criteria as defined by a board manufacturer.
+* "Twelve foot six" or "12'6" class is defined as any board equal to 12 feet and 6 inches in length or less when combined with a non-planning hull.
+* "Fourteen foot" or "‘14’0" class is defined as any board greater than 12 feet and 7 inches upto 14 feet in length.
+* "Unlimited" or "UL" class is any board longer than 14 feet and 1 inch.
+* "Mega Board" or "MB" class is any board designed to be paddled by more than 4 paddlers and whose width can accomodate two paddlers stood side-by-side.
 
- ## 1.3 Age Classes
- The following Age Classes apply to all events:
- * 15 - 17 refered to as "Juniors" *(15 upward is ICF)*  
- * 18 - 39 refered to as "Seniors"
- * 40 - 49 refered to as "Masters"
- * 50 - 59 refered to as "Veterans"
- * 60+ refered to as "Super Veterans"
+### 1.3 Age Classes
+The following Age Classes apply to all events:
+* 15 - 17 refered to as "Juniors" *(15 upward is ICF)*  
+* 18 - 39 refered to as "Seniors"
+* 40 - 49 refered to as "Masters"
+* 50 - 59 refered to as "Veterans"
+* 60+ refered to as "Super Veterans"
 
- Racers will compete in the class that represents their age on the 1st of January in the year during which the race series starts.
+1.3.1) Racers will compete in the class that represents their age on the 1st of January in the year during which the race series starts.
 
- At the Race Directors discretion junior paddlers may elect to compete in the Seniors category. It is the Racers obligation to notify the Race Director at check-in that they wish to race outside their nominal age class, to ensure that they start in the correct start wave and to ensure that the points and prizes are attributed correctly afterward.
+1.3.2) At the Race Directors discretion (only) junior paddlers may elect to compete in (only) the Seniors category.
+
+1.3.3) It is the Racers obligation to notify the Race Director at check-in that they wish to race outside their nominal age class, to ensure that they start in the correct start wave and to ensure that the points and prizes are attributed correctly afterward.
 
  ## 1.4 Equipment
- * "Paddle" is defined as a single bladed propulsion device with a handle on one end and blade on the other. A paddle that has more than one blade is illegal. Paddles maybe adjustable.
+ * "Paddle" is defined as a single bladed propulsion device with a handle on one end and blade on the other. A paddle that has more than one blade is illegal. Paddles may be adjustable.
  * "Fin" is a projecting surface or attachment for providing stability and preventing slippage only. It shall not be movable or pivitoable, provide any means of steering (thus becoming a rudder) nor provide lift (thus becoming a foil).
  * "Rudder" is a projecting surface or attachement hinged vertically or horizontally that provides any means of steering or controlling movement.
  * "Foil" is a projecting surface or attachement designed to produce any lift.
@@ -56,9 +57,9 @@ The length of a board will be measured as a straight line between any two points
 
 It is at the descretion of the Race Director as to whether the unlimited board class may or may not run with rudders where fitted and whether those that have are then sperated into their own Board Class. It is also at the Race Directors descretion as to whether a steering system can be suitably locked, disabled, removed or otherwise adjusted so as to comply with the other non-steerably classes.
 
-It is at the descretion of the Race Director as to whether foiling boards are afforded their own race discipline. 
+It is at the descretion of the Race Director as to whether foiling boards are afforded their own race discipline.
 
-One Design boards may compete outside of their nominal One Design class at the Race Directors discretion and so long as they meet the other classes criteria. It is the Racers obligation to notify the Race Director at check-in that they wish to race outside of their nominal One Design class, to ensure that they start in the correct start wave and to ensure that the points and prizes are attributed correctly afterward.
+One Design boards may compete outside of their nominal One Design class at the Race Directors discretion and so long as they meet the other classes criteria. It is the Racers obligation to notify the Race Director at check-in that they wCity of London, Londonish to race outside of their nominal One Design class, to ensure that they start in the correct start wave and to ensure that the points and prizes are attributed correctly afterward.
 
 ## National Race Series
 There will be 5 races in the 2018 race series, a Racers best 3 results will count towards their overall score.
