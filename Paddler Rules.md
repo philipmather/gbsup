@@ -1,29 +1,35 @@
-# Paddler’s Rules
+# Rules
 
 The Race Director's decision is final.
 
-## People
-* Racer
-* Race Organiser
-* Race Director
-* Race Committee
-* Time Keeper
-* Starter
-* Volunteer
+## Copyright
 
-## Board Classes
-The following definitions will be used to group boards into classes at all UK SUP events, the definition of a board class doesn't imply it's representation or acceptance at a parituclar or indeed any race, nor does it prohibit classes being merged.
+## Introduction
+   Inclusive
 
-* "Surf Shape" or "SS" shall be any board 12 feet and 5 inches in length or less with a planning hull. Displament, semi-displacement or concave hulls or not permitted in this class.
+## Definitions
+  ## People, Roles and Responsibilities
+    * Racer
+    * Race Organiser
+    * Race Director
+    * Race Committee
+    * Time Keeper
+    * Starter
+    * Volunteer
+
+ ## Board Classes
+ The following definitions will be used to group boards into classes at all events, the definition of a board class doesn't imply it's representation or acceptance at a parituclar or indeed any race, nor does it prohibit classes being merged.
+
+  * "Surf Shape" or "SS" shall be any board 12 feet and 5 inches in length or less with a planning hull. Displament, semi-displacement or concave hulls or not permitted in this class.
+* "One Design" classes are recognised as a fleet of boards produced to common criteria as defined by a board manufacturer.
 * "Twelve foot six" or "12'6" class is defined as any board equal to 12 feet and 6 inches in length or less when combined with a non-planning hull.
 * "Fourteen foot" or "‘14’0" class is defined as any board greater than 12 feet and 7 inches upto 14 feet in length.
 * "Unlimited" or "UL" class is any board longer than 14 feet and 1 inch.
 * "Mega Board" or "MB" class is any board designed to be paddled by more than 4 paddlers and whose width can accomodate two paddlers stood side-by-side.
-* "One Design" classes are recognised as a fleet of boards produced to common criteria as defined by a board manufacturer.
 
-The length of a board will be measured as a straight line between the two points producing the longest measurement along the board, as opposed to the rocker or hull line.
+The length of a board will be measured as a straight line between any two points on the furthest extents (in the event of an horizontally asymetric design) of the board which produces the longest measurement, not the rocker, water or hull line. The points do not have to share a plane with any horizontal or vertical feature of the board.
 
-One Design boards may compete outside of their nominal One Design class at the race directors discretion and so long as they meet the other classes criteria. It is the Racers obligation to notify the Race Director at check-in that they wish to race outside their nominal One Design class, to ensure that they start in the correct start wave and to ensure that the points and prizes are attributed correctly afterward.
+One Design boards may compete outside of their nominal One Design class at the Race Directors discretion and so long as they meet the other classes criteria. It is the Racers obligation to notify the Race Director at check-in that they wish to race outside of their nominal One Design class, to ensure that they start in the correct start wave and to ensure that the points and prizes are attributed correctly afterward.
 
 ## Age Classes
 UK SUP comprises the following age classes:
@@ -200,3 +206,7 @@ Racers can only enter one class at any event. No paddler can enter multiple clas
 
 ## GB SUP Membership
 Every Racer must be a member of GB SUP, there is no cost for membership. Membership must be completed prior to the race and all members must sign membership form stating they have read, understood and will adhere to all rules.
+
+
+## Special Notes
+There is no requirement to have a fin.
