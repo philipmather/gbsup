@@ -75,10 +75,10 @@ Bouyancy aids (BA) and other Personal Floatation Devices (PFD’s) can be worn i
 During an event, a Racer or Volunteer who is distressed should wave their hands and/or paddle in a back-and-forth crossing motion above their heads. Competitors who see a Racer, Volunteer or any other person  in distress via the signal or other indication MUST provide assistance and/or help to gain the attention of the closest safety personnel or emergency service. If a paddler stops to assist those in distress they should highlight this to Race Director who will readdress your final time on an presumed-honesty basis.
 
 ## Racing Procedures
-### Race Start
-The race start shall be a single audible sound such as a single horn blast or starter gun. The exact starting sequence and method of starting will be described in the Pre-race briefing.
+## Race Start
+The race start shall be a single audible sound such as a whistle, single horn blast or starter gun accompanied with a visual signal such as a flag being raised, lowered or waved. Such indications should be chosen so as not to be confused with safety signals. The exact starting sequence and method of starting will be described in the Safety Briefing.
 
-The race start shall start within 5 minutes of the published race start time. Prior to the race start the Starter shall bring the competitors to the start line no greater than 10 minutes and no less than 5 minutes before the first start.
+The race start shall be within 5 minutes of the published race start time. Prior to the race start the Starter shall bring the competitors to the start line no greater than 10 minutes and no less than 5 minutes before the first start.
 
 The start sequence at all events will be 3 minute audible warning, followed 3 minutes later by a single audible warning, signaling the start.
 
@@ -218,7 +218,14 @@ Every Racer must be a member of GB SUP, there is no cost for membership. Members
 
 
 ## Special Notes
-There is no restriction on the number of fins a board may or may not have.
 Foiling boards.
-Unlimited and steerable.
 Junior age elevation.
+Unlimited and steerable.
+Visual and Audiable signals.
+## Technical considerations
+There is no restriction on the number of fins a board may or may not have.
+
+## Adaptive Paddling
+As discussed in the introduction, as the Race Director's descision is always final it is at their discretion to remove, ignore, adapt or modify, append or replace any rules included in this document or other conventions as maybe needed to encourange those of all abilities to take part so long as safety is maintained.
+
+Specifically, the use of double ended paddles and requirements to not take more than 5 strokes whilst not standing should not stand as impediments.
