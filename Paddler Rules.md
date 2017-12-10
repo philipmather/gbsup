@@ -1,5 +1,4 @@
 # Rules
-The Race Director's decision is final.
 
 # Copyright
 
@@ -245,10 +244,11 @@ Any Racer not registering on time will not receive a race number. Some clubs may
 ## GB SUP Membership
 Every Racer must be a member of GB SUP, there is no cost for membership. Membership must be completed prior to the race and all members must sign membership form stating they have read, understood and will adhere to all rules.
 
-
 ## Special Notes
-Foiling boards.
+The Race Director's decision is final.
+
 Junior age elevation.
+Foiling boards.
 Unlimited and steerable.
 Visual and Audiable signals.
 
@@ -256,7 +256,7 @@ Paddlers may have formal or informal aggreements about drafting within their cla
 
 A Racer drafting another, even for the entire race, only to pass at the last moment shall not ultimately be considered unethical but as a matter of tactics that should be countered.
 
-The phrase "rubbing is racing" should be considered as a convention in regards to crowded bouy terms, more specficially for inflatable boards than the potentially more fragile carbon construction.
+The phrase "rubbing is racing" should be considered as a convention in regards to crowded bouy turns, more specficially for inflatable boards than the potentially more fragile carbon construction.
 
 Repeated contact with the rear of another Racers board from behind whilst drafting may ultimately be considered as a lack of board control and hence be penalized.
 
