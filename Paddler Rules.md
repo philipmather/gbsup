@@ -7,7 +7,7 @@ The Race Director's decision is final.
 Inclusive
 
 # 1. Definitions
-### 1.1 People, Roles and Responsibilities
+## 1.1 People, Roles and Responsibilities
 * Racer
 * Race Organiser
 * Race Director
@@ -17,7 +17,7 @@ Inclusive
 * Starter
 * Volunteer
 
-### 1.2 Board Classes
+## 1.2 Board Classes
 The following definitions will be used to group boards into classes at all events, the definition of a board class doesn't imply it's representation or acceptance at a parituclar or indeed any race, nor does it prohibit classes being merged.
 
 * "Surf Shape" or "SS" shall be any board 12 feet and 5 inches in length or less with a planning hull. Displament, semi-displacement or concave hulls or not permitted in this class.
@@ -27,7 +27,7 @@ The following definitions will be used to group boards into classes at all event
 * "Unlimited" or "UL" class is any board longer than 14 feet and 1 inch.
 * "Mega Board" or "MB" class is any board designed to be paddled by more than 4 paddlers and whose width can accomodate two paddlers stood side-by-side.
 
-### 1.3 Age Classes
+## 1.3 Age Classes
 The following Age Classes apply to all events:
 * 15 - 17 refered to as "Juniors" *(15 upward is ICF)*  
 * 18 - 39 refered to as "Seniors"
@@ -35,38 +35,55 @@ The following Age Classes apply to all events:
 * 50 - 59 refered to as "Veterans"
 * 60+ refered to as "Super Veterans"
 
-1.3.1) Racers will compete in the class that represents their age on the 1st of January in the year during which the race series starts.
+1.3.1 Racers will compete in the class that represents their age on the 1st of January in the year during which the race series starts.
 
-1.3.2) At the Race Directors discretion (only) junior paddlers may elect to compete in (only) the Seniors category.
+1.3.2 At the Race Directors discretion (only) junior paddlers may elect to compete in (only) the Seniors category.
 
-1.3.3) It is the Racers obligation to notify the Race Director at check-in that they wish to race outside their nominal age class, to ensure that they start in the correct start wave and to ensure that the points and prizes are attributed correctly afterward.
+1.3.3 It is the Racers obligation to notify the Race Director at check-in that they wish to race outside their nominal age class, to ensure that they start in the correct start wave and to ensure that the points and prizes are attributed correctly afterward.
 
- ## 1.4 Equipment
- * "Paddle" is defined as a single bladed propulsion device with a handle on one end and blade on the other. A paddle that has more than one blade is illegal. Paddles may be adjustable.
- * "Fin" is a projecting surface or attachment for providing stability and preventing slippage only. It shall not be movable or pivitoable, provide any means of steering (thus becoming a rudder) nor provide lift (thus becoming a foil).
- * "Rudder" is a projecting surface or attachement hinged vertically or horizontally that provides any means of steering or controlling movement.
- * "Foil" is a projecting surface or attachement designed to produce any lift.
- * "Leash" is the safety device connecting the Racer to their Board. This is mandatory during all races, failure to use it will result in immediate disqualification. The leash must be mounted to a dedicated mounting point(s) and not ancillary points such has handles and belt loops. It is advised that it is mounted infront of the racer for visibility and the use of a waist mounted, quick-release style leash is strongly encouraged to mitigate the risk of entanglement.
- * "Bouyancy Aid" or "Personal Floatation Device" is the safety device
+## 1.4 Equipment
+* "Paddle" is defined as a single bladed propulsion device with a handle on one end and blade on the other. A paddle that has more than one blade is illegal. Paddles may be adjustable.
+* "Fin" is a projecting surface or attachment for providing stability and preventing slippage only. It shall not be movable or pivitoable, provide any means of steering (thus becoming a rudder) nor provide lift (thus becoming a foil).
+* "Rudder" is a projecting surface or attachement hinged vertically or horizontally that provides any means of steering or controlling movement.
+* "Foil" is a projecting surface or attachement designed to produce any lift.
+* "Leash" is the safety device connecting the Racer to their Board. This is mandatory during all races, failure to use it will result in immediate disqualification. The leash must be mounted to a dedicated mounting point(s) and not ancillary points such has handles and belt loops. It is advised that it is mounted infront of the racer for visibility and the use of a waist mounted, quick-release style leash is strongly encouraged to mitigate the risk of entanglement.
+* "Bouyancy Aid" or "Personal Floatation Device" is the safety device
 
-## 2. Restrictions
+# 2. Restrictions
+
 ## 2.1 Board Restrictions
-All boards, at rest and/or whilst being propelled, must have only one effective hull, no catamarans, outrigger floats (such as an ama), spars or other such devices. 
+2.1.1 All boards, at rest and/or whilst being propelled, must have only one effective hull, no catamarans, outrigger floats (such as an ama), spars or other such devices. 
 
-The length of a board will be measured as a straight line between any two points on the furthest extents (in the event of an horizontally asymetric design) of the board which produces the longest measurement, not the rocker, water or hull line. The points do not have to share a plane with any (horizontal, vertical or other) feature of the board.
+2.1.2 The length of a board will be measured as a straight line between any two points on the furthest extents (in the event of an horizontally asymetric design) of the board which produces the longest measurement, not the rocker, water or hull line. The points do not have to share a plane with any (horizontal, vertical or other) feature of the board.
 
-It is at the descretion of the Race Director as to whether the unlimited board class may or may not run with rudders where fitted and whether those that have are then sperated into their own Board Class. It is also at the Race Directors descretion as to whether a steering system can be suitably locked, disabled, removed or otherwise adjusted so as to comply with the other non-steerably classes.
+2.1.3 It is at the descretion of the Race Director as to whether the unlimited board class may or may not run with rudders where fitted and whether those that have are then sperated into their own Board Class.
 
-It is at the descretion of the Race Director as to whether foiling boards are afforded their own race discipline.
+2.1.4 It is also at the Race Directors descretion as to whether a steering system can be suitably locked, disabled, removed or otherwise adjusted so as to comply with the other non-steerably classes.
 
-One Design boards may compete outside of their nominal One Design class at the Race Directors discretion and so long as they meet the other classes criteria. It is the Racers obligation to notify the Race Director at check-in that they wCity of London, Londonish to race outside of their nominal One Design class, to ensure that they start in the correct start wave and to ensure that the points and prizes are attributed correctly afterward.
+2.1.5 It is at the discretion of the Race Director as to whether an event includes a seperate discipline for boards that can be fitted with foils and the layout of such a seperate course.
 
-## National Race Series
-There will be 5 races in the 2018 race series, a Racers best 3 results will count towards their overall score.
+2.1.6 One Design boards may compete outside of their nominal One Design class at the Race Directors discretion and so long as they meet the other classes criteria.
 
-There must be at least three Racers in each Age, Board and Gender Class devision to form a podium and award prizes at individual races. If there are less than three Racers it is at the Race Directors discretion to merge Age, Board and/or Gender Classes together as they see fit to form as many podiums as is desired.
+2.1.7 It is the Racers obligation to notify the Race Director at check-in that they wish to race outside of their nominal One Design class, to ensure that they start in the correct start wave and to ensure that the points and prizes are attributed correctly afterward.
 
-Each Racer must have completed at least three races within the series to be eligible for overal class podium.
+## 2.2 Competitor Restrctions
+
+2.2.1 Stand up paddle boards shall be propelled by Racers using a single paddle, the inertia of their own body and harnessing the natural power of wind (excluding sails) and wave.
+
+2.2.2 Racers may not employ clothing as a form of sail, Racers may be instructed to restrain or remove particularly baggy tops.
+
+Racers can only enter one class at any event. No paddler can enter multiple classes.
+
+Age?
+Teams?
+
+# 3. National Race Series
+There will be 5 races in the 2018 race series, a Racer's best three results will count towards their overall score.
+
+Each Racer must have completed at least three races within the series to be eligible for an overal class podium.
+
+## 3.1 Scoring
+explain
 
 ## Safety
 All Racers and Volunters in any events must wear a leash regardless of local marine laws. Failure to do so will result in immediate disqualification.
@@ -76,6 +93,9 @@ Bouyancy aids (BA) and other Personal Floatation Devices (PFD’s) can be worn i
 During an event, a Racer or Volunteer who is distressed should wave their hands and/or paddle in a back-and-forth crossing motion above their heads. Competitors who see a Racer, Volunteer or any other person  in distress via the signal or other indication MUST provide assistance and/or help to gain the attention of the closest safety personnel or emergency service. If a paddler stops to assist those in distress they should highlight this to Race Director who will readdress your final time on an presumed-honesty basis.
 
 ## Racing Procedures
+
+There must be at least three Racers in each Age, Board and Gender Class devision to form a podium and award prizes at individual races. If there are less than three Racers it is at the Race Directors discretion to merge Age, Board and/or Gender Classes together as they see fit to form as many podiums as is desired.
+
 ## Race Start
 The race start shall be a single audible sound such as a whistle, single horn blast or starter gun accompanied with a visual signal such as a flag being raised, lowered or waved. Such indications should be chosen so as not to be confused with safety signals. The exact starting sequence and method of starting will be described in the Safety Briefing.
 
@@ -143,6 +163,21 @@ The timekeepers will notify any competitors of infractions as soon as possible a
 
 Invalid finishes may receive a time penalty, typically of 2 minutes but at the discretion of the Race Director.
 
+## Paddling on the Course
+A Racer will not be disqualified for touching a turn buoy, unless, in the opinion of the Race Director, an advantage has been gained. This may include picking up and moving the mark with hands or a paddle.
+
+A Racer will have a penalty applied if they round a mark in the wrong direction on land or water.
+
+If a Racer misses a mark or a lap completely they will be disqualified, the Racer has the option of correcting themselves by rounding the mark correctly without impeeding other Racers or completing missed laps.
+
+All marks following a missed mark will also be deemed as missed and should hence be renegotiated in normal lap order.
+
+Racers may deviate from the course, providing they make all of the marks and do not impede other Racers.
+
+Racers shall not pass through any bridges, docks, tunnels, piers or other landmarks or structures that they are not explicitly required to pass through by the Race Director on the basis of safety.
+
+Racers that take more than five consecutive paddle strokes on their knees may be disqualified.
+
 ## Drafting
 Drafting is not allowed out of Board or Gender class as defined for the race.
 
@@ -156,21 +191,6 @@ A competitor must make an effort to exit the drafting zone immediately when boun
 Competitors will be disqualified for drafting any water craft on the race course that is not in the same Class.
 
 No drafting of boats or other water craft at any time.
-
-## Paddling on the Course
-A Racer will not be disqualified for touching a turn buoy, unless, in the opinion of the Race Director, an advantage has been gained. This may include picking up and moving the mark with hands or a paddle.
-
-A Racer will have a penalty applied if they round a mark in the wrong direction.
-
-If a Racer misses a mark or a lap completely they will be disqualified, the Racer has the option of correcting themselves by rounding the mark correctly without impeeding other Racers or completing missed laps.
-
-Racers may deviate from the course, providing they make all of the marks and do not impede other Racers.
-
-Racers shall not pass through any bridges, docks, tunnels, piers or other landmarks that they are not explicitly required to pass through by the Race Director on the basis of safety.
-
-Racers that take more than five consecutive paddle strokes on their knees may be disqualified.
-
-Stand up paddle boards shall be propelled only by means of human-powered, single-bladed paddles.
 
 ## Disqualification
 Any Racer who attempts to win a race by any other than appropriate means, or who does not follow racing regulations, may be disqualified from the event.
@@ -202,17 +222,14 @@ When a protest is made against a Racer or Race Official, all parties in question
 Protests will be decided upon by the Competition Committee through first-hand accounts as well as any photographic and/or video evidence.
 
 ## Prize Money
-There will be no prize money awarded by the GB SUP, trophies and medals will be awarded at each race.
+There will be no prize money awarded by GB SUP, trophies and medals will be awarded at each race.
 
 ## Registration
 Registration will close at 22:00 on the Wednesday prior to the race.
 
 It is at the Race Directors discretion to accept registrations after this time as the online process now handles bib number assignment and waiver sign off which significantly reduces the logistical complexity of running a race.
 
-Any Racer not registering on time will not receive a race number. Some Clubs may cap the entries for their race; therefore it is best to register early.
-
-## Entry to Board Class
-Racers can only enter one class at any event. No paddler can enter multiple classes.
+Any Racer not registering on time will not receive a race number. Some clubs may cap the entries for their race; therefore it is best to register early.
 
 ## GB SUP Membership
 Every Racer must be a member of GB SUP, there is no cost for membership. Membership must be completed prior to the race and all members must sign membership form stating they have read, understood and will adhere to all rules.
@@ -223,10 +240,25 @@ Foiling boards.
 Junior age elevation.
 Unlimited and steerable.
 Visual and Audiable signals.
+
+Paddlers may have formal or informal aggreements about drafting within their class.
+
+A Racer drafting another, even for the entire race, only to pass at the last moment shall not ultimately be considered unethical but as a matter of tactics that should be countered.
+
+The phrase "rubbing is racing" should be considered as a convention in regards to crowded bouy terms, more specficially for inflatable boards than the potentially more fragile carbon construction.
+
+Repeated contact with the rear of another Racers board from behind whilst drafting may ultimately be considered as a lack of board control and hence be penalized.
+
+Paddlers may carry only one spare paddle, this is only to be used in the event that their original fails under normal usage.
+
+Paddlers may lend their spare paddle to others during the race, in doing so they do it without obligation even in the event that their original paddle then fails.
+
+Paddlers may not lend any other other equipment, food, water, performance monitoring, navigation or repair equipment during a race unless it becomes a safety consideration.
+
 ## Technical considerations
-There is no restriction on the number of fins a board may or may not have.
+There is no restriction on the size, shape or number of fins a board may or may not have.
 
 ## Adaptive Paddling
 As discussed in the introduction, as the Race Director's descision is always final it is at their discretion to remove, ignore, adapt or modify, append or replace any rules included in this document or other conventions as maybe needed to encourange those of all abilities to take part so long as safety is maintained.
 
-Specifically, the use of double ended paddles and requirements to not take more than 5 strokes whilst not standing should not stand as impediments.
+Specifically, the use of double ended paddles and requirements to take no more than five strokes whilst not standing should not stand as impediments.
