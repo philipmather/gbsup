@@ -8,7 +8,7 @@ Inclusive
 
 # 1. Definitions
 ## 1.1 People, Roles and Responsibilities
-* Racer
+* Racer or Paddler
 * Race Organiser
 * Race Director
 * Race Committee
@@ -20,12 +20,12 @@ Inclusive
 ## 1.2 Board Classes
 The following definitions will be used to group boards into classes at all events, the definition of a board class doesn't imply it's representation or acceptance at a parituclar or indeed any race, nor does it prohibit classes being merged.
 
-* "Surf Shape" or "SS" shall be any board 12 feet and 5 inches in length or less with a planning hull. Displament, semi-displacement or concave hulls or not permitted in this class.
-* "One Design" classes are recognised as a fleet of boards produced to common criteria as defined by a board manufacturer.
-* "Twelve foot six" or "12'6" class is defined as any board equal to 12 feet and 6 inches in length or less when combined with a non-planning hull.
-* "Fourteen foot" or "‘14’0" class is defined as any board greater than 12 feet and 7 inches upto 14 feet in length.
-* "Unlimited" or "UL" class is any board longer than 14 feet and 1 inch.
-* "Mega Board" or "MB" class is any board designed to be paddled by more than 4 paddlers and whose width can accomodate two paddlers stood side-by-side.
+* 1.2.1 "One Design" classes are recognised as a fleet of boards produced to common criteria as defined by a board manufacturer.
+* 1.2.2 "Surf Shape" or "SS" shall be any board 12 feet and 5 inches in length or less with a planning hull. Displament, semi-displacement or concave hulls are not permitted in this class.
+* 1.2.3 "Twelve foot six" or "12'6" class is defined as any board equal to 12 feet and 6 inches in length or less when combined with a non-planning hull.
+* 1.2.4 "Fourteen foot" or "14’0" class is defined as any board greater than 12 feet and 7 inches upto 14 feet in length.
+* 1.2.5 "Unlimited" or "UL" class is any board longer than 14 feet and 1 inch.
+* 1.2.6 "Mega Board" or "MB" class is any board designed to be paddled by more than 4 paddlers and whose width can accomodate two paddlers stood side-by-side.
 
 ## 1.3 Age Classes
 The following Age Classes apply to all events:
@@ -33,24 +33,23 @@ The following Age Classes apply to all events:
 * 18 - 39 refered to as "Seniors"
 * 40 - 49 refered to as "Masters"
 * 50 - 59 refered to as "Veterans"
-* 60+ refered to as "Super Veterans"
+* 60+ refered to as "Kahuna"
 
 1.3.1 Racers will compete in the class that represents their age on the 1st of January in the year during which the race series starts.
 
-1.3.2 At the Race Directors discretion (only) junior paddlers may elect to compete in (only) the Seniors category.
+1.3.2 At the Race Directors discretion junior paddlers only may elect to compete in only the Seniors category.
 
 1.3.3 It is the Racers obligation to notify the Race Director at check-in that they wish to race outside their nominal age class, to ensure that they start in the correct start wave and to ensure that the points and prizes are attributed correctly afterward.
 
 ## 1.4 Equipment
-* "Paddle" is defined as a single bladed propulsion device with a handle on one end and blade on the other. A paddle that has more than one blade is illegal. Paddles may be adjustable.
-* "Fin" is a projecting surface or attachment for providing stability and preventing slippage only. It shall not be movable or pivitoable, provide any means of steering (thus becoming a rudder) nor provide lift (thus becoming a foil).
-* "Rudder" is a projecting surface or attachement hinged vertically or horizontally that provides any means of steering or controlling movement.
-* "Foil" is a projecting surface or attachement designed to produce any lift.
-* "Leash" is the safety device connecting the Racer to their Board. This is mandatory during all races, failure to use it will result in immediate disqualification. The leash must be mounted to a dedicated mounting point(s) and not ancillary points such has handles and belt loops. It is advised that it is mounted infront of the racer for visibility and the use of a waist mounted, quick-release style leash is strongly encouraged to mitigate the risk of entanglement.
-* "Bouyancy Aid" or "Personal Floatation Device" is the safety device
+* 1.4.1 "Paddle" is defined as a single bladed propulsion device with a handle on one end and blade on the other. A paddle that has more than one blade is illegal. Paddles may be adjustable.
+* 1.4.2 "Fin" is a projecting surface or attachment for providing stability and preventing slippage only. It shall not be movable or pivitoable, provide any means of steering (thus becoming a rudder) nor provide lift (thus becoming a foil).
+* 1.4.3 "Rudder" is a projecting surface or attachement hinged vertically or horizontally that provides any means of steering or controlling movement.
+* 1.4.4 "Foil" is a projecting surface or attachement designed to produce any lift.
+* 1.4.5 "Leash" is the safety device connecting the Racer to their Board. This is mandatory during all races, failure to use it will result in immediate disqualification. The leash must be mounted to a dedicated mounting point(s) and not ancillary points such has handles and belt loops. It is advised that it is mounted infront of the racer for visibility and the use of a waist mounted, quick-release style leash is strongly encouraged to mitigate the risk of entanglement.
+* 1.4.6 "Bouyancy Aid" or "Personal Floatation Device" is the safety device
 
 # 2. Restrictions
-
 ## 2.1 Board Restrictions
 2.1.1 All boards, at rest and/or whilst being propelled, must have only one effective hull, no catamarans, outrigger floats (such as an ama), spars or other such devices. 
 
@@ -72,7 +71,7 @@ The following Age Classes apply to all events:
 
 2.2.2 Racers may not employ clothing as a form of sail, Racers may be instructed to restrain or remove particularly baggy tops.
 
-Racers can only enter one class at any event. No paddler can enter multiple classes.
+2.2.3 Racers can only enter one class at any event. No paddler can enter multiple classes.
 
 Age?
 Teams?
@@ -80,10 +79,22 @@ Teams?
 # 3. National Race Series
 There will be 5 races in the 2018 race series, a Racer's best three results will count towards their overall score.
 
-Each Racer must have completed at least three races within the series to be eligible for an overal class podium.
-
 ## 3.1 Scoring
-explain
+### 3.1.1 Individual Races
+3.1.1.1 Scored out of 600 points, each position down from 1st will be subtracted 3 points.
+
+### 3.1.2 Event Scoring
+3.1.2.1 Shall be the combination of the individual races at the event and form the basis of the event podium.
+
+### 3.1.3 Overall Series
+3.1.3.1 Is scored from the best three Event Results, not from the Individual Races at an Event.
+
+### Specialised Series
+3.1.2 The Distance specialisation series will be scored on the best three results of the Distance Races (Battle of the Thames, Cardiff, NWF and Windermere for 2018).
+
+3.1.3 The Sprint specialisation series will be scored on the best three results of the Sprint Races (NWF, Winderemere and BaySUP).
+
+3.1.4 The Technical specialisation series will be scored on best three results of the Technical Races (BaySUP, NWF(?), st Ives(?)).
 
 ## Safety
 All Racers and Volunters in any events must wear a leash regardless of local marine laws. Failure to do so will result in immediate disqualification.
