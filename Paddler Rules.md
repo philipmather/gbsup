@@ -22,12 +22,12 @@ Capitalised terms such as
 ## 1.2 Board Classes
 The following definitions will be used to group boards into classes at all events, the definition of a board class doesn't imply it's representation or acceptance at a parituclar or indeed any race, nor does it prohibit classes being merged.
 
-1.2.1 "One Design" classes are recognised as a fleet of boards produced to common criteria as defined by a board manufacturer.
-1.2.2 "Surf Shape" or "SS" shall be any board 12 feet and 5 inches in length or less with a planning hull. Displament, semi-displacement or concave hulls are not permitted in this class.
-1.2.3 "Twelve foot six" or "12'6" class is defined as any board equal to 12 feet and 6 inches in length or less when combined with a non-planning hull.
-1.2.4 "Fourteen foot" or "14’0" class is defined as any board greater than 12 feet and 7 inches upto 14 feet in length.
-1.2.5 "Unlimited" or "UL" class is any board longer than 14 feet and 1 inch.
-1.2.6 "Mega Board" or "MB" class is any board designed to be paddled by more than 4 paddlers and whose width can accomodate two paddlers stood side-by-side.
+* 1.2.1 "One Design" classes are recognised as a fleet of boards produced to common criteria as defined by a board manufacturer.
+* 1.2.2 "Surf Shape" or "SS" shall be any board 12 feet and 5 inches in length or less with a planning hull. Displament, semi-displacement or concave hulls are not permitted in this class.
+* 1.2.3 "Twelve foot six" or "12'6" class is defined as any board equal to 12 feet and 6 inches in length or less when combined with a non-planning hull.
+* 1.2.4 "Fourteen foot" or "14’0" class is defined as any board greater than 12 feet and 7 inches upto 14 feet in length.
+* 1.2.5 "Unlimited" or "UL" class is any board longer than 14 feet and 1 inch.
+* 1.2.6 "Mega Board" or "MB" class is any board designed to be paddled by more than 4 paddlers and whose width can accomodate two paddlers stood side-by-side.
 
 ## 1.3 Age Classes
 The following Age Classes apply to all events:
