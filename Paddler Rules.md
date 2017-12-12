@@ -110,16 +110,18 @@ There will be 5 races in the 2018 race series, a Racer's best three results will
 There must be at least three Racers in each Age, Board and Gender Class devision to form a podium and award prizes at individual races. If there are less than three Racers it is at the Race Directors discretion to merge Age, Board and/or Gender Classes together as they see fit to form as many podiums as is desired.
 
 ### 5.1 Race Start
-The start sequence at all events will be the following sequence:
+The recommend start sequence at all events will be the following sequence:
 
-* At least a 3 minute audible warning for competitors to gether just short of the start line of their class and prepare.
- * An audible warning of "One (1) minute" for competitors to approach the start line and align themselves fully prepared (including starting any tracking or monitoring devices).
- * An audible warning of "Ten (10) seconds" given by the starter after which, AT ANY POINT in the following ten (10) seconds when the starter is happy that the paddlers are correctly aligned there will follow...
- * A single audible warning, signaling the start.
+ * At least a three (3) minute and no more than ten (10) minute verbal warning for competitors to gather just short of the start line for their class and prepare.
+ * A verbal warning of "One (1) minute" for competitors to approach the start line and align themselves, fully prepared (including starting any tracking or monitoring devices).
+ * A verbal warning (with a recommended accompanying raising of a flag) of "Ten (10) seconds" given by the starter after which, AT ANY POINT in the following ten (10) seconds when the Starter is happy that the paddlers are correctly aligned there will follow...
+ * A single audible sound (with a recommended accompanying droping of a flag), signaling the start.
 
-Following the one minute warning the Starter will, as needed, issue instructions and warnings to those Racers not correctly alligned either but not limited to those with their body in front of the start line, those not within the bounds of the start line, those aligned such that t
+Following the one minute warning the Starter will, as needed, issue instructions and warnings to those Racers not correctly alligned either (but not limited to) those with their body in front of the start line, those not within the bounds of the start line, those bunched at one end of the starting line etc... in a best efforts attempt to ensure an orderly and fair start.
 
-The race start shall be a single audible sound such as a whistle, single horn blast or starter gun accompanied with a visual signal such as a flag being waved. Such indications should be chosen so as not to be confused with safety signals. The exact starting sequence and method of starting will be described in the Safety Briefing.
+All timings are approximate, including the ten second period, however if the ten second period approaches 30 seconds because a number of Racers are either 
+
+The race start shall be a single audible sound such as a whistle, single horn blast or starter gun accompanied with a visual signal such as a flag being droped or waved. Such indications should be chosen so as not to be confused with safety signals. The exact starting sequence and method of starting will be described in the Safety Briefing.
 
 The race start shall be within 5 minutes of the published race start time. Prior to the race start the Starter shall bring the competitors to the start line no greater than 10 minutes and no less than 5 minutes before the first start.
 
