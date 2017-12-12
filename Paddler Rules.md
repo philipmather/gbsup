@@ -31,11 +31,11 @@ The following definitions will be used to group boards into classes at all event
 
 ## 1.3 Age Classes
 The following Age Classes apply to all events:
-* 15 - 17 refered to as "Juniors" *(15 upward is ICF)*  
-* 18 - 39 refered to as "Seniors"
-* 40 - 49 refered to as "Masters"
-* 50 - 59 refered to as "Veterans"
-* 60+ refered to as "Kahuna"
+* 1.3.1 15 - 17 refered to as "Juniors" *(15 upward is ICF)*  
+* 1.3.2 18 - 39 refered to as "Seniors"
+* 1.3.3 40 - 49 refered to as "Masters"
+* 1.3.4 50 - 59 refered to as "Veterans"
+* 1.3.5 60+ refered to as "Kahuna"
 
 1.3.1 Racers will compete in the class that represents their age on the 1st of January in the year during which the race series starts.
 
@@ -69,9 +69,9 @@ The following Age Classes apply to all events:
 
 ## 2.2 Competitor Restrctions
 
-2.2.1 Stand up paddle boards shall be propelled by Racers using a single paddle, the inertia of their own body and harnessing the natural power of wind (excluding sails) and wave.
+2.2.1 Stand up paddle boards shall be propelled by Racers using a single paddle, the inertia of their own body and harnessing the naturally occur power of wind (excluding sails) and wave.
 
-2.2.2 Racers may not employ clothing as a form of sail, Racers may be instructed to restrain or remove particularly baggy tops.
+2.2.2 Racers may not employ clothing as a form of sail, Racers may be instructed to restrain or remove particularly baggy clothing.
 
 2.2.3 Racers can only enter one class at any event. No paddler can enter multiple classes.
 
@@ -96,25 +96,32 @@ There will be 5 races in the 2018 race series, a Racer's best three results will
 
 3.1.3 The Sprint specialisation series will be scored on the best three results of the Sprint Races (NWF, Winderemere and BaySUP).
 
-3.1.4 The Technical specialisation series will be scored on best three results of the Technical Races (BaySUP, NWF(?), st Ives(?)).
+3.1.4 The Technical specialisation series will be scored on best three results of the Technical Races (BaySUP, NWF(?), St Ives(?)).
 
-## Safety
-All Racers and Volunters in any events must wear a leash regardless of local marine laws. Failure to do so will result in immediate disqualification.
+## 4. Safety
+4.1 All Racers and Volunters in any events must wear a leash regardless of local marine laws. Failure to do so will result in immediate disqualification.
 
-Bouyancy aids (BA) and other Personal Floatation Devices (PFD’s) can be worn if the Racer wishes to do so. The Race Director may add a PFD or BA to the racing requirement at their discretion on a per Racer basis or to the entire field.
+4.2 Bouyancy aids (BA) and other Personal Floatation Devices (PFD’s) may be worn if the Racer wishes to do so. The Race Director may add a PFD or BA to the racing requirement at their discretion on a per Racer basis or to the entire field.
 
-During an event, a Racer or Volunteer who is distressed should wave their hands and/or paddle in a back-and-forth crossing motion above their heads. Competitors who see a Racer, Volunteer or any other person  in distress via the signal or other indication MUST provide assistance and/or help to gain the attention of the closest safety personnel or emergency service. If a paddler stops to assist those in distress they should highlight this to Race Director who will readdress your final time on an presumed-honesty basis.
+4.3 During an event, a Racer or Volunteer who is distressed should wave their hands and/or paddle in a back-and-forth crossing motion above their heads. Competitors who see a Racer, Volunteer or any other person  in distress via the signal or other indication MUST provide assistance and/or help to gain the attention of the closest safety personnel or emergency service. If a paddler stops to assist those in distress they should highlight this to Race Director who will readdress your final time on an presumed-honesty basis.
 
-## Racing Procedures
+## 5. Racing Procedures
 
 There must be at least three Racers in each Age, Board and Gender Class devision to form a podium and award prizes at individual races. If there are less than three Racers it is at the Race Directors discretion to merge Age, Board and/or Gender Classes together as they see fit to form as many podiums as is desired.
 
-## Race Start
-The race start shall be a single audible sound such as a whistle, single horn blast or starter gun accompanied with a visual signal such as a flag being raised, lowered or waved. Such indications should be chosen so as not to be confused with safety signals. The exact starting sequence and method of starting will be described in the Safety Briefing.
+### 5.1 Race Start
+The start sequence at all events will be the following sequence:
+
+* At least a 3 minute audible warning for competitors to gether just short of the start line of their class and prepare.
+ * An audible warning of "One (1) minute" for competitors to approach the start line and align themselves fully prepared (including starting any tracking or monitoring devices).
+ * An audible warning of "Ten (10) seconds" given by the starter after which, AT ANY POINT in the following ten (10) seconds when the starter is happy that the paddlers are correctly aligned there will follow...
+ * A single audible warning, signaling the start.
+
+Following the one minute warning the Starter will, as needed, issue instructions and warnings to those Racers not correctly alligned either but not limited to those with their body in front of the start line, those not within the bounds of the start line, those aligned such that t
+
+The race start shall be a single audible sound such as a whistle, single horn blast or starter gun accompanied with a visual signal such as a flag being waved. Such indications should be chosen so as not to be confused with safety signals. The exact starting sequence and method of starting will be described in the Safety Briefing.
 
 The race start shall be within 5 minutes of the published race start time. Prior to the race start the Starter shall bring the competitors to the start line no greater than 10 minutes and no less than 5 minutes before the first start.
-
-The start sequence at all events will be 3 minute audible warning, followed 3 minutes later by a single audible warning, signaling the start.
 
 Any competitor who does not follow the instructions of the Starter or who is ahead of the start line once the starting sequence has begun shall be given a false start and a penalty.
 
@@ -129,15 +136,15 @@ Surf Shape (if board class is included in race and their race distance is less t
 race distance. If the Surf Shape race distance is the same as the main race then it will be positioned with or before the Naish N1SCO class)
 There shall be 3 minutes between each start to allow the next class to assemble for their start. The start of the previous class will be the 3 minute warning for the next class start.
 
-#### Beach Starts
+#### 5.1.1 Beach Starts
 If flags are used for the line, Racers must align their body with the flags. Any Racer with their body completely in front of any start flag will be given a false start by the Race Committee and a penalty.
 
 The Starter will record the name and number of the Racer and let them know they have a false start at the earliest possibility.
 
-#### Straddled starts
+#### 5.1.2 Straddled starts
 In the event of particular high winds or choppy seas, racers may be asked to sit on their boards behind the start buoys.
 
-#### Water Start
+#### 5.1.3 Water Start
 Competitors with their body in front of the buoys before the start horn sounds will be given a false start and a penalty.
 
 If the Starter is not satisfied with the line once the competitors are called up, the command will be ‘STOP’ and competitors will begin the starting sequence again.
