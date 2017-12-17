@@ -10,14 +10,14 @@ Capitalised terms such as
 
 # 1. Definitions
 ## 1.1 People, Roles and Responsibilities
-* Racer or Paddler
-* Race Organiser
-* Race Director
-* Race Committee
-* Social Committee
-* Time Keeper
-* Starter
-* Volunteer
+* 1.1.1 Racer or Paddler
+* 1.1.2 Race Organiser
+* 1.1.3 Race Director
+* 1.1.4 Race Committee
+* 1.1.5 Social Committee
+* 1.1.6 Time Keeper
+* 1.1.7 Starter
+* 1.1.8 Volunteer
 
 ## 1.2 Board Classes
 The following definitions will be used to group boards into classes at all events, the definition of a board class doesn't imply it's representation or acceptance at a parituclar or indeed any race, nor does it prohibit classes being merged.
@@ -31,7 +31,7 @@ The following definitions will be used to group boards into classes at all event
 
 ## 1.3 Age Classes
 The following Age Classes apply to all events:
-* 1.3.1 15 - 17 refered to as "Juniors" *(15 upward is ICF)*  
+* 1.3.1 15 - 17 refered to as "Juniors" *(15 upward is ICF?)*  
 * 1.3.2 18 - 39 refered to as "Seniors"
 * 1.3.3 40 - 49 refered to as "Masters"
 * 1.3.4 50 - 59 refered to as "Veterans"
