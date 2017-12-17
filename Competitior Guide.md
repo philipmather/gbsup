@@ -1,0 +1,5 @@
+# Competitor Guide
+
+## Copyright
+
+## Introduction
