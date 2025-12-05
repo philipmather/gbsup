@@ -1,5 +1,0 @@
-# Competitor Guide
-
-## Copyright
-
-## Introduction
